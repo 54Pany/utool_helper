@@ -1,0 +1,15 @@
+{
+	"pluginName": "Spoof",
+    "description": "Change your MAC address",
+    "author": "p4ny",
+    "version": "1.0.0",
+    "logo": "icon.png",
+    "preload": "preload.js",
+	"features": [
+		{
+          "code": "spoof",
+		  "explain": "Change your MAC address",
+		  "cmds":["spoof"]
+		}
+	]
+}

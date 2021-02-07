@@ -1,0 +1,15 @@
+{
+	"pluginName": "Sec-News",
+    "description": "Sec-News 安全文摘",
+    "author": "p4ny",
+    "version": "1.0.0",
+    "logo": "logo.png",
+    "preload": "preload.js",
+	"features": [
+		{
+          "code": "get_news",
+		  "explain": "Sec-News 安全文摘最新15条",
+		  "cmds":["Sec", "安全"]
+		}
+	]
+}
